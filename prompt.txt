@@ -1,0 +1,7 @@
+ Here are video chunks containing video title, video number, text in the chunk, start timestamp and end timestamp:
+
+[{"title":"recording4","number":"4","start":0.0,"end":3.48,"text":" More than 1 lakh people wanted to register"},{"title":"recording4","number":"4","start":3.48,"end":7.96,"text":" But in this stadium, more than 60,000 people did not have the capacity to sit"},{"title":"recording2","number":"2","start":0.0,"end":2.76,"text":" this was recorded and is being used properly"}]
+------------------------------------------------------
+
+"why the people couldnt register "
+User asked this question realted to the video chunks, you have to answer where the answer can  be found (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, then you can say that the answer is not found in the video chunks.
