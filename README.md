@@ -110,3 +110,9 @@ Ask a question: Why couldn't people register?
   automatically translated to English
 - All processing happens locally — your data never leaves your machine
 ```
+
+## ⚠️ License
+© 2025 chAkash3101. All Rights Reserved.
+This project is NOT open source. No permission is granted to use,
+copy, modify, or distribute this code without explicit written
+permission from the author.
